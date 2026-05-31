@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "caveman": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "computedHash": "dfbf85749fd474feeb0bbe60c779795ecd5dbec0083299b56e68916bc3ddd8c9"
+    },
+    "solana-dev": {
+      "source": "solana-foundation/solana-dev-skill",
+      "sourceType": "github",
+      "computedHash": "27419a2b51070cdd9c3653c8ba3789ab12cdc09cce1383c4fdedc979cf7d15b6"
+    },
+    "solana-payments-wallets-trading": {
+      "source": "solanaguide/solana-cli",
+      "sourceType": "github",
+      "computedHash": "cb8a16f64720f1e9051de00b5d2c7d3033e1c9e28e37bdf0966923e167d5dac1"
+    }
+  }
+}
